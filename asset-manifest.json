@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/burger-app-german/static/css/main.e6c13ad2.css",
+    "main.js": "/burger-app-german/static/js/main.4d656aa9.js",
+    "index.html": "/burger-app-german/index.html",
+    "main.e6c13ad2.css.map": "/burger-app-german/static/css/main.e6c13ad2.css.map",
+    "main.4d656aa9.js.map": "/burger-app-german/static/js/main.4d656aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d656aa9.js"
+  ]
+}
